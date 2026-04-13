@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Silkscreen:wght@400;700&display=swap');
+
+body {
+  background-color: #52D84C;
+  width: 100%; 
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-family: "Sansation", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #213320;
+  text-decoration: none;
+}
+
+.titulo {
+  font-family: "Sansation", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #062610
+}
+.apresentacao {
+  justify-content: flex-start;
+  font-family: "Sansation", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #213320;
+  text-decoration: none;
+}
+
+.contatos {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-family: "Sansation", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #213320;
+}
+
+.sobre-mim {
+  display: flex;
+  gap: 5rem;
+  font-family: "Sansation", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #213320;
+}
+
+.projetos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 5rem;
+  font-family: "Sansation", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #213320;
+  text-decoration: none;
+  padding: 20px;
+  width: 100%;
+}
+
+.CInExt, .LIACLI {
+  flex: 1;
+}
+
+.LIACLI {
+  display: flex;
+  flex-direction: column;
+}
