@@ -9,7 +9,7 @@ export default function Home() {
 
         <section className="contatos">
             <p><strong>E-mail:</strong> alanyvitoria03@gmail.com</p>
-            <a href="www.linkedin.com/in/alany-vitoria-dev">LinkedIn</a>
+            <a href="https://br.linkedin.com/in/alany-vitoria-dev">LinkedIn</a>
         </section>
 
     </main>
